@@ -1,4 +1,4 @@
-# Partitioning problem
+# Partitioning problem solution
 
 Solved with Largest Differencing Method
 
